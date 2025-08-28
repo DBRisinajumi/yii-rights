@@ -1,0 +1,10 @@
+{
+  "name": "crisu83/yii-rights",
+  "require": {
+    "php":">=5.1.0"
+  },
+  "require-dev": {
+    "yiisoft/yii": "1.1.14",
+  },
+  "minimum-stability": "dev"
+}
